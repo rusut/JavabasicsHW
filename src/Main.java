@@ -17,6 +17,9 @@ public class Main {
         double j=Exercice1.HexagonP(15,4);
         System.out.println("  The perimeter of the hexagon is: "+j);
 
+        //Exercise2
+
+
 
         //Exercice3
         System.out.println("--Exercice3:  Enter your string to reverse: ");
