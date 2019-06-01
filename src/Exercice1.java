@@ -1,6 +1,5 @@
 
 public class Exercice1 {
-
 //Write a Java program to print the area and perimeter and area  of a rectangle and a hexagon
     static int RectangleP(int w, int l){
     int p= w*l;
