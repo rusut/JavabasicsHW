@@ -7,7 +7,5 @@ public class Main {
         System.out.print("Introdu numarul de randuri: ");
         int row = scanner.nextInt();
         PascalTriangle.print(row);
-
-
-    }
+        }
 }
