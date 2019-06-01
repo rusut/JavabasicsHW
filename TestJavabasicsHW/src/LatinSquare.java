@@ -1,6 +1,6 @@
 //Latin square logic
 public class LatinSquare {
-    
+
     static void square(int n){
         int l = n+1;
         for (int i=1; i<=n; i++){
