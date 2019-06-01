@@ -18,8 +18,7 @@ public class Main {
         System.out.println("  The perimeter of the hexagon is: "+j);
 
         //Exercise2
-
-
+        //-----
 
         //Exercice3
         System.out.println("--Exercice3:  Enter your string to reverse: ");
@@ -31,7 +30,6 @@ public class Main {
         }
             System.out.println("Reversed string is: ");
             System.out.println(b.toString());
-
 
         //Exercice 4
         System.out.println("--Exercice4 : odd numbers from 1 to 99 result ");

@@ -6,7 +6,6 @@ public class Exercice2 {
     public static void main (String[] args) {
         Scanner input = new Scanner(System.in);
 
-
         System.out.println("Enter latitude of point 1:");
         double lat1 = input.nextDouble();
         System.out.println("Enter longitude of point 1:");
@@ -15,7 +14,6 @@ public class Exercice2 {
         double lat2 = input.nextDouble();
         System.out.println("Enter longitude of point 2:");
         double lon2 = input.nextDouble();
-
 
         final int R = 6371; // Radius of the earth
 
